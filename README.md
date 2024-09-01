@@ -37,7 +37,7 @@ Data was gathered from various sources, including government websites for agricu
 The data is organized into two JSON files:
 1. **City Data**: Includes city name, geographical coordinates, agricultural products (with seasonal variations, quantities, required quantities, deficits, and prices), and adjacency information for spatial analysis and route optimization.
 2. **Transportation Companies**: Contains company locations, coordinates, and details of available trucks (identifiers, types, capacities, and prices).
-
+![Data](Data.png)
 ### Data Cleaning
 Python scripts were used to refine the collected data, addressing inconsistencies and missing values to ensure accuracy and reliability.
 
