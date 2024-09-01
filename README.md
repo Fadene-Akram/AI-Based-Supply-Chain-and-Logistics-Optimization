@@ -37,7 +37,9 @@ Data was gathered from various sources, including government websites for agricu
 The data is organized into two JSON files:
 1. **City Data**: Includes city name, geographical coordinates, agricultural products (with seasonal variations, quantities, required quantities, deficits, and prices), and adjacency information for spatial analysis and route optimization.
 2. **Transportation Companies**: Contains company locations, coordinates, and details of available trucks (identifiers, types, capacities, and prices).
+
 ![Data](Data.png)
+
 ### Data Cleaning
 Python scripts were used to refine the collected data, addressing inconsistencies and missing values to ensure accuracy and reliability.
 
@@ -83,6 +85,10 @@ To demonstrate how these methods can be utilized in our project to find optimal 
 6. **Select Best Truck**: Select the best truck for transportation based on product quantity and lowest price.
 7. **Execute Transportation**: The transportation process is executed using the chosen optimization technique, which can be A* search, DFS, BFS, or Simulated Annealing, depending on the project's needs and objectives.
 8. **Output Results and Visualization**: Output all the previous results and visualize the transportation path.
+
+![Output1](Terminal-Output.png)
+
+![Output2](Map-Output.png)
 
 ## Comparative Analyses
 
