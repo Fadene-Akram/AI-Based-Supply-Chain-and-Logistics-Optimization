@@ -1,0 +1,1564 @@
+{
+  "companies": [
+    {
+      "name": "QUICK LIVRAISON",
+      "city_name": "Alger",
+      "trucks": [
+        {
+          "id": 1,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7224.64
+        },
+        {
+          "id": 2,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8567.79
+        },
+        {
+          "id": 3,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5448.32
+        },
+        {
+          "id": 4,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6905.78
+        },
+        {
+          "id": 5,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9298.07
+        },
+        {
+          "id": 6,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5787.08
+        },
+        {
+          "id": 7,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6305.38
+        },
+        {
+          "id": 8,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9150.11
+        },
+        {
+          "id": 9,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5817.86
+        },
+        {
+          "id": 10,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6725.33
+        }
+      ],
+      "latitude": "36.7538",
+      "longitude": "3.0588"
+    },
+    {
+      "name": "DKL LIVRAISON",
+      "city_name": "Oran",
+      "trucks": [
+        {
+          "id": 11,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6296.36
+        },
+        {
+          "id": 12,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9739.03
+        },
+        {
+          "id": 13,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5171.62
+        },
+        {
+          "id": 14,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7182.24
+        },
+        {
+          "id": 15,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7531.48
+        },
+        {
+          "id": 16,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5407.41
+        },
+        {
+          "id": 17,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7153.04
+        },
+        {
+          "id": 18,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9090.15
+        },
+        {
+          "id": 19,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5045.21
+        },
+        {
+          "id": 20,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7253.11
+        }
+      ],
+      "latitude": "35.6987",
+      "longitude": "0.6349"
+    },
+    {
+      "name": "DKL LIVRAISON",
+      "city_name": "Guelma",
+      "trucks": [
+        {
+          "id": 21,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6490.58
+        },
+        {
+          "id": 22,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9475.42
+        },
+        {
+          "id": 23,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5228.62
+        },
+        {
+          "id": 24,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6888.82
+        },
+        {
+          "id": 25,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9352.81
+        },
+        {
+          "id": 26,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5620.54
+        },
+        {
+          "id": 27,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6821.81
+        },
+        {
+          "id": 28,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8692.47
+        },
+        {
+          "id": 29,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5890.32
+        },
+        {
+          "id": 30,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7458.81
+        }
+      ],
+      "latitude": "36.4627",
+      "longitude": "7.4331"
+    },
+    {
+      "name": "TRM",
+      "city_name": "M'Sila",
+      "trucks": [
+        {
+          "id": 31,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7235.99
+        },
+        {
+          "id": 32,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8116.28
+        },
+        {
+          "id": 33,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5689.24
+        },
+        {
+          "id": 34,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6023.9
+        },
+        {
+          "id": 35,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8893.03
+        },
+        {
+          "id": 36,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5154.47
+        },
+        {
+          "id": 37,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6098.75
+        },
+        {
+          "id": 38,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7892.64
+        },
+        {
+          "id": 39,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5932.65
+        },
+        {
+          "id": 40,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6894.15
+        }
+      ],
+      "latitude": "35.7187",
+      "longitude": "4.5233"
+    },
+    {
+      "name": "TRANSPORT DE MARCHANDISE",
+      "city_name": "Tiaret",
+      "trucks": [
+        {
+          "id": 41,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7010.67
+        },
+        {
+          "id": 42,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8797.05
+        },
+        {
+          "id": 43,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5133.53
+        },
+        {
+          "id": 44,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6663.95
+        },
+        {
+          "id": 45,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9254.2
+        },
+        {
+          "id": 46,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5918.8
+        },
+        {
+          "id": 47,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6785.02
+        },
+        {
+          "id": 48,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7529.22
+        },
+        {
+          "id": 49,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5868.64
+        },
+        {
+          "id": 50,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6700.17
+        }
+      ],
+      "latitude": "35.3709",
+      "longitude": "1.3218"
+    },
+    {
+      "name": "SARL TRANSPORT BAF",
+      "city_name": "Khenchela",
+      "trucks": [
+        {
+          "id": 51,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6038.51
+        },
+        {
+          "id": 52,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7542.17
+        },
+        {
+          "id": 53,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5984.98
+        },
+        {
+          "id": 54,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6501.38
+        },
+        {
+          "id": 55,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8800.0
+        },
+        {
+          "id": 56,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5735.65
+        },
+        {
+          "id": 57,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7060.45
+        },
+        {
+          "id": 58,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8659.3
+        },
+        {
+          "id": 59,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5700.39
+        },
+        {
+          "id": 60,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6851.09
+        }
+      ],
+      "latitude": "35.4269",
+      "longitude": "7.1460"
+    },
+    {
+      "name": "TM LOGISTIQUE",
+      "city_name": "Ghardaia",
+      "trucks": [
+        {
+          "id": 61,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6389.24
+        },
+        {
+          "id": 62,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8700.63
+        },
+        {
+          "id": 63,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5128.02
+        },
+        {
+          "id": 64,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7442.65
+        },
+        {
+          "id": 65,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8481.06
+        },
+        {
+          "id": 66,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5485.05
+        },
+        {
+          "id": 67,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7068.33
+        },
+        {
+          "id": 68,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9339.34
+        },
+        {
+          "id": 69,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5082.75
+        },
+        {
+          "id": 70,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6565.48
+        }
+      ],
+      "latitude": "32.4944",
+      "longitude": "3.6445"
+    },
+    {
+      "name": "FILTRANS",
+      "city_name": "Tindouf",
+      "trucks": [
+        {
+          "id": 71,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6513.93
+        },
+        {
+          "id": 72,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9417.19
+        },
+        {
+          "id": 73,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5072.24
+        },
+        {
+          "id": 74,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6016.55
+        },
+        {
+          "id": 75,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8714.19
+        },
+        {
+          "id": 76,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5131.06
+        },
+        {
+          "id": 77,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6643.89
+        },
+        {
+          "id": 78,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9742.04
+        },
+        {
+          "id": 79,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5087.32
+        },
+        {
+          "id": 80,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6678.54
+        }
+      ],
+      "latitude": "27.6771",
+      "longitude": "8.1284"
+    },
+    {
+      "name": "TRANSIT CENTRAL",
+      "city_name": "Timimoun",
+      "trucks": [
+        {
+          "id": 81,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6818.14
+        },
+        {
+          "id": 82,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7553.06
+        },
+        {
+          "id": 83,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5624.51
+        },
+        {
+          "id": 84,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6908.96
+        },
+        {
+          "id": 85,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9772.89
+        },
+        {
+          "id": 86,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5865.99
+        },
+        {
+          "id": 87,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6903.4
+        },
+        {
+          "id": 88,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7582.4
+        },
+        {
+          "id": 89,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5990.73
+        },
+        {
+          "id": 90,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7314.76
+        }
+      ],
+      "latitude": "29.2617",
+      "longitude": "0.2416"
+    },
+    {
+      "name": "TIME TAXI RADIO",
+      "city_name": "Illizi",
+      "trucks": [
+        {
+          "id": 91,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6337.39
+        },
+        {
+          "id": 92,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9169.79
+        },
+        {
+          "id": 93,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5649.47
+        },
+        {
+          "id": 94,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6718.86
+        },
+        {
+          "id": 95,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8718.67
+        },
+        {
+          "id": 96,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5340.85
+        },
+        {
+          "id": 97,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6254.07
+        },
+        {
+          "id": 98,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9699.47
+        },
+        {
+          "id": 99,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5293.46
+        },
+        {
+          "id": 100,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6902.92
+        }
+      ],
+      "latitude": "26.5081",
+      "longitude": "8.4830"
+    },
+    {
+      "name": "BORUSAN LOGISTIQUE INTERNATIONAL ALGERIA",
+      "city_name": "Naama",
+      "trucks": [
+        {
+          "id": 101,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6989.08
+        },
+        {
+          "id": 102,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9173.7
+        },
+        {
+          "id": 103,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5838.73
+        },
+        {
+          "id": 104,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6418.39
+        },
+        {
+          "id": 105,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7751.89
+        },
+        {
+          "id": 106,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5739.98
+        },
+        {
+          "id": 107,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6785.59
+        },
+        {
+          "id": 108,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9009.51
+        },
+        {
+          "id": 109,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5605.08
+        },
+        {
+          "id": 110,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6570.8
+        }
+      ],
+      "latitude": "33.2667",
+      "longitude": "0.3129"
+    },
+    {
+      "name": "TS&ST",
+      "city_name": "Bordj Baji Mokhtar",
+      "trucks": [
+        {
+          "id": 111,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6355.99
+        },
+        {
+          "id": 112,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8242.48
+        },
+        {
+          "id": 113,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5973.59
+        },
+        {
+          "id": 114,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7267.08
+        },
+        {
+          "id": 115,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7594.75
+        },
+        {
+          "id": 116,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5756.32
+        },
+        {
+          "id": 117,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6283.63
+        },
+        {
+          "id": 118,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8831.71
+        },
+        {
+          "id": 119,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5280.09
+        },
+        {
+          "id": 120,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6490.21
+        }
+      ],
+      "latitude": "21.3255",
+      "longitude": "0.9525"
+    },
+    {
+      "name": "TRM ALGERIE NATIONAL EXPRESS",
+      "city_name": "Chlef",
+      "trucks": [
+        {
+          "id": 121,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6017.18
+        },
+        {
+          "id": 122,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9368.12
+        },
+        {
+          "id": 123,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5881.44
+        },
+        {
+          "id": 124,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7370.59
+        },
+        {
+          "id": 125,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8781.34
+        },
+        {
+          "id": 126,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5130.81
+        },
+        {
+          "id": 127,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7279.68
+        },
+        {
+          "id": 128,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9423.99
+        },
+        {
+          "id": 129,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5140.33
+        },
+        {
+          "id": 130,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6971.31
+        }
+      ],
+      "latitude": "36.1581",
+      "longitude": "1.3372"
+    },
+    {
+      "name": "TRANSPOR DE MARCHANDISE SUR TOUTE DISTONCE",
+      "city_name": "Jijel",
+      "trucks": [
+        {
+          "id": 131,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6182.51
+        },
+        {
+          "id": 132,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8924.33
+        },
+        {
+          "id": 133,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5740.39
+        },
+        {
+          "id": 134,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6889.92
+        },
+        {
+          "id": 135,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9818.58
+        },
+        {
+          "id": 136,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5205.9
+        },
+        {
+          "id": 137,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6918.74
+        },
+        {
+          "id": 138,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9430.53
+        },
+        {
+          "id": 139,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5365.46
+        },
+        {
+          "id": 140,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6546.95
+        }
+      ],
+      "latitude": "36.8210",
+      "longitude": "5.7634"
+    },
+    {
+      "name": "GENERAL SHIP SUPPLY & LOGISTICS",
+      "city_name": "In Salah",
+      "trucks": [
+        {
+          "id": 141,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6002.48
+        },
+        {
+          "id": 142,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7875.47
+        },
+        {
+          "id": 143,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5712.52
+        },
+        {
+          "id": 144,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7414.56
+        },
+        {
+          "id": 145,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9673.15
+        },
+        {
+          "id": 146,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5100.76
+        },
+        {
+          "id": 147,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6976.5
+        },
+        {
+          "id": 148,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8989.01
+        },
+        {
+          "id": 149,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5344.03
+        },
+        {
+          "id": 150,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6382.69
+        }
+      ],
+      "latitude": "27.1978",
+      "longitude": "2.4818"
+    },
+    {
+      "name": "SNC ATEM TRANSIT &TRANSPORT",
+      "city_name": "Blida",
+      "trucks": [
+        {
+          "id": 151,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6844.02
+        },
+        {
+          "id": 152,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8855.87
+        },
+        {
+          "id": 153,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5462.56
+        },
+        {
+          "id": 154,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7434.6
+        },
+        {
+          "id": 155,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9524.22
+        },
+        {
+          "id": 156,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5323.83
+        },
+        {
+          "id": 157,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6253.99
+        },
+        {
+          "id": 158,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8405.39
+        },
+        {
+          "id": 159,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5768.89
+        },
+        {
+          "id": 160,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6293.94
+        }
+      ],
+      "latitude": "36.4736",
+      "longitude": "2.8323"
+    },
+    {
+      "name": "2M INDUSTRIES",
+      "city_name": "Souk Ahras",
+      "trucks": [
+        {
+          "id": 161,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6974.08
+        },
+        {
+          "id": 162,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7757.48
+        },
+        {
+          "id": 163,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5180.4
+        },
+        {
+          "id": 164,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6481.05
+        },
+        {
+          "id": 165,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9552.7
+        },
+        {
+          "id": 166,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5896.21
+        },
+        {
+          "id": 167,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6726.89
+        },
+        {
+          "id": 168,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7652.66
+        },
+        {
+          "id": 169,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5089.51
+        },
+        {
+          "id": 170,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6656.64
+        }
+      ],
+      "latitude": "36.2800",
+      "longitude": "7.9383"
+    },
+    {
+      "name": "K T R TRANSPORTS",
+      "city_name": "Adrar",
+      "trucks": [
+        {
+          "id": 171,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7414.04
+        },
+        {
+          "id": 172,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9264.51
+        },
+        {
+          "id": 173,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5526.99
+        },
+        {
+          "id": 174,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7228.39
+        },
+        {
+          "id": 175,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8205.67
+        },
+        {
+          "id": 176,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5647.56
+        },
+        {
+          "id": 177,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6738.65
+        },
+        {
+          "id": 178,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8520.48
+        },
+        {
+          "id": 179,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5866.72
+        },
+        {
+          "id": 180,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6056.8
+        }
+      ],
+      "latitude": "27.8809",
+      "longitude": "0.2894"
+    },
+    {
+      "name": "VIAROUTE",
+      "city_name": "Tizi Ouzou",
+      "trucks": [
+        {
+          "id": 181,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6721.98
+        },
+        {
+          "id": 182,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9493.07
+        },
+        {
+          "id": 183,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5905.22
+        },
+        {
+          "id": 184,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6278.78
+        },
+        {
+          "id": 185,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8311.65
+        },
+        {
+          "id": 186,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5003.52
+        },
+        {
+          "id": 187,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7480.27
+        },
+        {
+          "id": 188,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7759.37
+        },
+        {
+          "id": 189,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5374.23
+        },
+        {
+          "id": 190,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6903.21
+        }
+      ],
+      "latitude": "36.7135",
+      "longitude": "4.0473"
+    },
+    {
+      "name": "LKW WALTER",
+      "city_name": "Batna",
+      "trucks": [
+        {
+          "id": 191,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6146.5
+        },
+        {
+          "id": 192,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 9572.64
+        },
+        {
+          "id": 193,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5044.96
+        },
+        {
+          "id": 194,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7181.19
+        },
+        {
+          "id": 195,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 7997.09
+        },
+        {
+          "id": 196,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5909.23
+        },
+        {
+          "id": 197,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 7247.89
+        },
+        {
+          "id": 198,
+          "type": "Refrigerated",
+          "capacity": 300000,
+          "current_load": 0,
+          "price": 8684.61
+        },
+        {
+          "id": 199,
+          "type": "Flatbed",
+          "capacity": 500000,
+          "current_load": 0,
+          "price": 5037.68
+        },
+        {
+          "id": 200,
+          "type": "Box Truck",
+          "capacity": 350000,
+          "current_load": 0,
+          "price": 6901.56
+        }
+      ],
+      "latitude": "35.5446",
+      "longitude": "6.1597"
+    }
+  ]
+}

@@ -1,0 +1,3998 @@
+{
+    "cities": [
+        {
+            "name": "Adrar",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 24502,
+                    "season": "Summer",
+                    "required_quantity": 54300,
+                    "deficit": 29798,
+                    "unit_price": 57.42
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 325044,
+                    "season": "Winter",
+                    "required_quantity": 457643,
+                    "deficit": 132599,
+                    "unit_price": 58.88
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 800000,
+                    "season": "Winter",
+                    "required_quantity": 400000,
+                    "deficit": -400000,
+                    "unit_price": 616.06
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 253534,
+                    "season": "Winter",
+                    "required_quantity": 356961,
+                    "deficit": 103427,
+                    "unit_price": 58.41
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 803,
+                    "season": "Summer",
+                    "required_quantity": 56756,
+                    "deficit": 55953,
+                    "unit_price": 85.97
+                }
+            ],
+            "latitude": "27.8809",
+            "longitude": "0.2894",
+            "routes": [
+                [
+                    "Timimoun",
+                    150.48728569504613
+                ],
+                [
+                    "In Salah",
+                    311.1202677316036
+                ],
+                [
+                    "Tamanrasset",
+                    814.0175490383714
+                ],
+                [
+                    "Bordj Baji Mokhtar",
+                    750.4471734390719
+                ],
+                [
+                    "Tindouf",
+                    685.4710760205356
+                ],
+                [
+                    "Beni Abbes",
+                    324.2090784475697
+                ]
+            ]
+        },
+        {
+            "name": "Chlef",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 2540343,
+                    "season": "Winter",
+                    "required_quantity": 2303500,
+                    "deficit": -236843,
+                    "unit_price": 53.86
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 3504533,
+                    "season": "Spring",
+                    "required_quantity": 3200021,
+                    "deficit": -304512,
+                    "unit_price": 51.84
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 1000,
+                    "season": "Summer",
+                    "required_quantity": 230454,
+                    "deficit": 229454,
+                    "unit_price": 400.84
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 2733535,
+                    "season": "Summer",
+                    "required_quantity": 2496016,
+                    "deficit": -237519,
+                    "unit_price": 59.81
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 765744,
+                    "season": "Winter",
+                    "required_quantity": 300453,
+                    "deficit": -465291,
+                    "unit_price": 114.99
+                }
+            ],
+            "latitude": "36.1581",
+            "longitude": "1.3372",
+            "routes": [
+                [
+                    "Tipaza",
+                    126.59014869457586
+                ],
+                [
+                    "Mostaganem",
+                    139.4447814802844
+                ],
+                [
+                    "Ain Defla",
+                    91.66433696822831
+                ],
+                [
+                    "Tissemsilt",
+                    80.34783407450699
+                ],
+                [
+                    "Relizane",
+                    67.566156554684
+                ]
+            ]
+        },
+        {
+            "name": "Laghouat",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 400030,
+                    "season": "Summer",
+                    "required_quantity": 23500,
+                    "deficit": -376530,
+                    "unit_price": 50.57
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 731234,
+                    "season": "Winter",
+                    "required_quantity": 562232,
+                    "deficit": -169002,
+                    "unit_price": 73.03
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 89004,
+                    "season": "Winter",
+                    "required_quantity": 45032,
+                    "deficit": -43972,
+                    "unit_price": 352.25
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 570362,
+                    "season": "Winter",
+                    "required_quantity": 438540,
+                    "deficit": -131822,
+                    "unit_price": 60.69
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 843,
+                    "season": "Summer",
+                    "required_quantity": 45654,
+                    "deficit": 44811,
+                    "unit_price": 104.66
+                }
+            ],
+            "latitude": "33.8080",
+            "longitude": "2.8629",
+            "routes": [
+                [
+                    "Djelfa",
+                    108.11163380082557
+                ],
+                [
+                    "Ghardaia",
+                    163.98998890128942
+                ],
+                [
+                    "El Bayadh",
+                    253.82603011860067
+                ],
+                [
+                    "Tiaret",
+                    240.89823399006679
+                ]
+            ]
+        },
+        {
+            "name": "Oum El Bouaghi",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 3400000,
+                    "season": "Winter",
+                    "required_quantity": 3007500,
+                    "deficit": -392500,
+                    "unit_price": 57.31
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 4563,
+                    "season": "Spring",
+                    "required_quantity": 456633,
+                    "deficit": 452070,
+                    "unit_price": 50.75
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 789,
+                    "season": "Summer",
+                    "required_quantity": 12300,
+                    "deficit": 11511,
+                    "unit_price": 508.79
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 3559,
+                    "season": "Summer",
+                    "required_quantity": 356173,
+                    "deficit": 352614,
+                    "unit_price": 54.01
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 5890,
+                    "season": "Winter",
+                    "required_quantity": 56757,
+                    "deficit": 50867,
+                    "unit_price": 104.07
+                }
+            ],
+            "latitude": "35.8689",
+            "longitude": "7.1108",
+            "routes": [
+                [
+                    "Constantine",
+                    65.02065740459452
+                ],
+                [
+                    "Guelma",
+                    73.3734455719045
+                ],
+                [
+                    "Souk Ahras",
+                    103.65740644625062
+                ],
+                [
+                    "Batna",
+                    450.1998758151316
+                ],
+                [
+                    "Khenchela",
+                    49.308124005944535
+                ],
+                [
+                    "Tbessa",
+                    121.49122276137513
+                ],
+                [
+                    "Mila",
+                    115.89023747511388
+                ]
+            ]
+        },
+        {
+            "name": "Batna",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 2000000,
+                    "season": "Summer",
+                    "required_quantity": 1600750,
+                    "deficit": -399250,
+                    "unit_price": 53.93
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 35234,
+                    "season": "Winter",
+                    "required_quantity": 456323,
+                    "deficit": 421089,
+                    "unit_price": 56.54
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 46490,
+                    "season": "Winter",
+                    "required_quantity": 46567,
+                    "deficit": 77,
+                    "unit_price": 501.63
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 27482,
+                    "season": "Winter",
+                    "required_quantity": 355931,
+                    "deficit": 328449,
+                    "unit_price": 46.73
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 930,
+                    "season": "Summer",
+                    "required_quantity": 445654,
+                    "deficit": 444724,
+                    "unit_price": 120.61
+                }
+            ],
+            "latitude": "35.5446",
+            "longitude": "6.1597",
+            "routes": [
+                [
+                    "M'Sila",
+                    163.15718672362013
+                ],
+                [
+                    "Biskra",
+                    85.7357001208063
+                ],
+                [
+                    "Oum El Bouaghi",
+                    120.1998758151316
+                ],
+                [
+                    "Khenchela",
+                    57.7954473931689
+                ],
+                [
+                    "Mila",
+                    92.14461021532213
+                ],
+                [
+                    "Setif",
+                    100.710886319993
+                ]
+            ]
+        },
+        {
+            "name": "Bejaia",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 51344,
+                    "season": "Winter",
+                    "required_quantity": 252300,
+                    "deficit": 200956,
+                    "unit_price": 53.42
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 4586,
+                    "season": "Spring",
+                    "required_quantity": 345322,
+                    "deficit": 340736,
+                    "unit_price": 74.04
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 879,
+                    "season": "Summer",
+                    "required_quantity": 3430,
+                    "deficit": 2551,
+                    "unit_price": 488.46
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 3577,
+                    "season": "Summer",
+                    "required_quantity": 269351,
+                    "deficit": 265774,
+                    "unit_price": 56.53
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 445542,
+                    "season": "Winter",
+                    "required_quantity": 65624,
+                    "deficit": -379918,
+                    "unit_price": 90.5
+                }
+            ],
+            "latitude": "36.7515",
+            "longitude": "5.0558",
+            "routes": [
+                [
+                    "Tizi Ouzou",
+                    93.98839906667689
+                ],
+                [
+                    "Jijel",
+                    74.54824008165295
+                ],
+                [
+                    "Setif",
+                    78.783741669902
+                ],
+                [
+                    "Bordj Bou Arreridj",
+                    82.09415424699485
+                ],
+                [
+                    "",
+                    115.59615570712737
+                ]
+            ]
+        },
+        {
+            "name": "Biskra",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 336322,
+                    "season": "Summer",
+                    "required_quantity": 344500,
+                    "deficit": 8178,
+                    "unit_price": 52.08
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 4564,
+                    "season": "Winter",
+                    "required_quantity": 433454,
+                    "deficit": 428890,
+                    "unit_price": 62.08
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 1400080,
+                    "season": "Winter",
+                    "required_quantity": 1000223,
+                    "deficit": -399857,
+                    "unit_price": 371.15
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 3559,
+                    "season": "Winter",
+                    "required_quantity": 338094,
+                    "deficit": 334535,
+                    "unit_price": 59.96
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 866,
+                    "season": "Summer",
+                    "required_quantity": 455342,
+                    "deficit": 454476,
+                    "unit_price": 95.8
+                }
+            ],
+            "latitude": "34.8537",
+            "longitude": "5.7277",
+            "routes": [
+                [
+                    "Batna",
+                    113.7357001208063
+                ],
+                [
+                    "M'Sila",
+                    186.09813630971925
+                ],
+                [
+                    "Djelfa",
+                    260.4598548908361
+                ],
+                [
+                    "El Oued",
+                    226.44955922709607
+                ],
+                [
+                    "Khenchela",
+                    169.8561715167411
+                ]
+            ]
+        },
+        {
+            "name": "Bechar",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 623,
+                    "season": "Winter",
+                    "required_quantity": 233500,
+                    "deficit": 232877,
+                    "unit_price": 50.18
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 3453,
+                    "season": "Spring",
+                    "required_quantity": 3456,
+                    "deficit": 3,
+                    "unit_price": 67.28
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 788898,
+                    "season": "Summer",
+                    "required_quantity": 307787,
+                    "deficit": -481111,
+                    "unit_price": 370.33
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 2693,
+                    "season": "Summer",
+                    "required_quantity": 2695,
+                    "deficit": 2,
+                    "unit_price": 64.21
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1113,
+                    "season": "Winter",
+                    "required_quantity": 454352,
+                    "deficit": 453239,
+                    "unit_price": 118.36
+                }
+            ],
+            "latitude": "31.6238",
+            "longitude": "2.2162",
+            "routes": [
+                [
+                    "Ain Temouchent",
+                    417.2571264509206
+                ],
+                [
+                    "Beni Abbes",
+                    183.7886185387492
+                ],
+                [
+                    "El Bayadh",
+                    378.08526998692315
+                ],
+                [
+                    "Timimoun",
+                    200.1796554000864
+                ]
+            ]
+        },
+        {
+            "name": "Blida",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 5645,
+                    "season": "Summer",
+                    "required_quantity": 379500,
+                    "deficit": 373855,
+                    "unit_price": 59.39
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 345323,
+                    "season": "Winter",
+                    "required_quantity": 35323,
+                    "deficit": -310000,
+                    "unit_price": 63.48
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 453,
+                    "season": "Winter",
+                    "required_quantity": 80000,
+                    "deficit": 79547,
+                    "unit_price": 607.41
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 269351,
+                    "season": "Winter",
+                    "required_quantity": 27551,
+                    "deficit": -241800,
+                    "unit_price": 57.23
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 154456323,
+                    "season": "Summer",
+                    "required_quantity": 154043434,
+                    "deficit": -412889,
+                    "unit_price": 105.39
+                }
+            ],
+            "latitude": "36.4736",
+            "longitude": "2.8323",
+            "routes": [
+                [
+                    "Alger",
+                    41.69718393034376
+                ],
+                [
+                    "Boumerdes",
+                    82.70323288616407
+                ],
+                [
+                    "Tipaza",
+                    45.55255200338428
+                ],
+                [
+                    "Ain Defla",
+                    79.61053998374352
+                ],
+                [
+                    "Medea",
+                    22.04213838402239
+                ],
+                [
+                    "Bouira",
+                    128.58707221323937
+                ]
+            ]
+        },
+        {
+            "name": "Bouira",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 455337,
+                    "season": "Winter",
+                    "required_quantity": 78500,
+                    "deficit": -376837,
+                    "unit_price": 52.25
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 3452352,
+                    "season": "Spring",
+                    "required_quantity": 3046456,
+                    "deficit": -405896,
+                    "unit_price": 57.94
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 453,
+                    "season": "Winter",
+                    "required_quantity": 80000,
+                    "deficit": 79547,
+                    "unit_price": 607.41
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 2692834,
+                    "season": "Summer",
+                    "required_quantity": 2376235,
+                    "deficit": -316599,
+                    "unit_price": 65.44
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 83653,
+                    "season": "Winter",
+                    "required_quantity": 56556,
+                    "deficit": -27097,
+                    "unit_price": 104.72
+                }
+            ],
+            "latitude": "36.3737",
+            "longitude": "3.8980",
+            "routes": [
+                [
+                    "Blida",
+                    128.58707221323937
+                ],
+                [
+                    "Tizi Ouzou",
+                    57.07310253593337
+                ],
+                [
+                    "Bejaia",
+                    135.59615570712737
+                ],
+                [
+                    "Bordj Bou Arreridj",
+                    95.13409048571711
+                ],
+                [
+                    "Medea",
+                    128.39232235711006
+                ],
+                [
+                    "Boumerdes",
+                    77.58294717221759
+                ],
+                [
+                    "M'Sila",
+                    85.30932455768108
+                ]
+            ]
+        },
+        {
+            "name": "Tamanrasset",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 67967,
+                    "season": "Summer",
+                    "required_quantity": 478500,
+                    "deficit": 410533,
+                    "unit_price": 55.94
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 543,
+                    "season": "Winter",
+                    "required_quantity": 34563,
+                    "deficit": 34020,
+                    "unit_price": 56.49
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 800000,
+                    "season": "Winter",
+                    "required_quantity": 400000,
+                    "deficit": -400000,
+                    "unit_price": 616.06
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 423,
+                    "season": "Winter",
+                    "required_quantity": 26959,
+                    "deficit": 26536,
+                    "unit_price": 68.92
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 800,
+                    "season": "Summer",
+                    "required_quantity": 106400,
+                    "deficit": 105600,
+                    "unit_price": 83.38
+                }
+            ],
+            "latitude": "22.7942",
+            "longitude": "5.5361",
+            "routes": [
+                [
+                    "In Guezzam",
+                    358.6369085244386
+                ],
+                [
+                    "Bordj Baji Mokhtar",
+                    500.8373142618389
+                ],
+                [
+                    "Djanet",
+                    447.4607575766455
+                ],
+                [
+                    "Illizi",
+                    509.5353047369301
+                ],
+                [
+                    "In Salah",
+                    578.7315429136577
+                ],
+                [
+                    "Adrar",
+                    814.0175490383714
+                ]
+            ]
+        },
+        {
+            "name": "Tbessa",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 566636,
+                    "season": "Winter",
+                    "required_quantity": 90500,
+                    "deficit": -476136,
+                    "unit_price": 52.59
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 456422,
+                    "season": "Spring",
+                    "required_quantity": 34522,
+                    "deficit": -421900,
+                    "unit_price": 53.13
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 46490,
+                    "season": "Winter",
+                    "required_quantity": 46567,
+                    "deficit": 77,
+                    "unit_price": 501.63
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 356009,
+                    "season": "Summer",
+                    "required_quantity": 26927,
+                    "deficit": -329082,
+                    "unit_price": 67.4
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1138,
+                    "season": "Winter",
+                    "required_quantity": 105600,
+                    "deficit": 104462,
+                    "unit_price": 114.79
+                }
+            ],
+            "latitude": "35.4011",
+            "longitude": "8.1173",
+            "routes": [
+                [
+                    "Souk Ahras",
+                    96.83593543324685
+                ],
+                [
+                    "Oum El Bouaghi",
+                    121.49122276137513
+                ],
+                [
+                    "Khenchela",
+                    107.77450171714182
+                ],
+                [
+                    "El Oued",
+                    158.5982440270143
+                ]
+            ]
+        },
+        {
+            "name": "Tlemcen",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 347648,
+                    "season": "Summer",
+                    "required_quantity": 589500,
+                    "deficit": 241852,
+                    "unit_price": 50.32
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 2435322,
+                    "season": "Winter",
+                    "required_quantity": 2000000,
+                    "deficit": -435322,
+                    "unit_price": 67.56
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 589,
+                    "season": "Winter",
+                    "required_quantity": 600,
+                    "deficit": 11,
+                    "unit_price": 306.37
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 1899551,
+                    "season": "Winter",
+                    "required_quantity": 1560000,
+                    "deficit": -339551,
+                    "unit_price": 57.27
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 96569,
+                    "season": "Summer",
+                    "required_quantity": 10500,
+                    "deficit": -86069,
+                    "unit_price": 88.13
+                }
+            ],
+            "latitude": "34.8829",
+            "longitude": "1.3167",
+            "routes": [
+                [
+                    "Ain Temouchent",
+                    63.30238495638896
+                ],
+                [
+                    "Sidi Bel Abbes",
+                    83.61669842132852
+                ],
+                [
+                    "Naama",
+                    197.03217472801373
+                ]
+            ]
+        },
+        {
+            "name": "Tiaret",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 4500000,
+                    "season": "Winter",
+                    "required_quantity": 4000001,
+                    "deficit": -499999,
+                    "unit_price": 58.43
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 4500000,
+                    "season": "Spring",
+                    "required_quantity": 4000000,
+                    "deficit": -500000,
+                    "unit_price": 50.38
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 500,
+                    "season": "Summer",
+                    "required_quantity": 6000,
+                    "deficit": 5500,
+                    "unit_price": 616.68
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 3510000,
+                    "season": "Summer",
+                    "required_quantity": 3120000,
+                    "deficit": -390000,
+                    "unit_price": 68.88
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1141,
+                    "season": "Winter",
+                    "required_quantity": 156000,
+                    "deficit": 154859,
+                    "unit_price": 100.53
+                }
+            ],
+            "latitude": "35.3709",
+            "longitude": "1.3218",
+            "routes": [
+                [
+                    "Djelfa",
+                    225.65581158339123
+                ],
+                [
+                    "Tissemsilt",
+                    52.99975267965317
+                ],
+                [
+                    "El Bayadh",
+                    313.7802249302145
+                ],
+                [
+                    "Laghouat",
+                    240.89823399006679
+                ],
+                [
+                    "Saida",
+                    149.7627241591061
+                ],
+                [
+                    "Mascara",
+                    137.6115661903622
+                ],
+                [
+                    "Relizane",
+                    76.45775084352
+                ]
+            ]
+        },
+        {
+            "name": "Tizi Ouzou",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 5089,
+                    "season": "Summer",
+                    "required_quantity": 98500,
+                    "deficit": 93411,
+                    "unit_price": 55.94
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 413,
+                    "season": "Winter",
+                    "required_quantity": 400,
+                    "deficit": -13,
+                    "unit_price": 64.7
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 783,
+                    "season": "Winter",
+                    "required_quantity": 600,
+                    "deficit": -183,
+                    "unit_price": 322.12
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 322,
+                    "season": "Winter",
+                    "required_quantity": 312,
+                    "deficit": -10,
+                    "unit_price": 46.03
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 456815,
+                    "season": "Summer",
+                    "required_quantity": 51000,
+                    "deficit": -405815,
+                    "unit_price": 116.03
+                }
+            ],
+            "latitude": "36.7135",
+            "longitude": "4.0473",
+            "routes": [
+                [
+                    "Boumerdes",
+                    65.26274475716237
+                ],
+                [
+                    "Bouira",
+                    57.07310253593337
+                ],
+                [
+                    "Bejaia",
+                    103.98839906667689
+                ]
+            ]
+        },
+        {
+            "name": "Alger",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 627,
+                    "season": "Winter",
+                    "required_quantity": 494500,
+                    "deficit": 493873,
+                    "unit_price": 50.13
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 33134,
+                    "season": "Spring",
+                    "required_quantity": 456435,
+                    "deficit": 423301,
+                    "unit_price": 65.78
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 763,
+                    "season": "Summer",
+                    "required_quantity": 389000,
+                    "deficit": 388237,
+                    "unit_price": 324.01
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 25844,
+                    "season": "Summer",
+                    "required_quantity": 356019,
+                    "deficit": 330175,
+                    "unit_price": 68.43
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 345345,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -344345,
+                    "unit_price": 89.72
+                }
+            ],
+            "latitude": "36.7538",
+            "longitude": "3.0588",
+            "routes": [
+                [
+                    "Boumerdes",
+                    48.246135227678145
+                ],
+                [
+                    "Blida",
+                    41.69718393034376
+                ],
+                [
+                    "Tipaza",
+                    74.24214086711788
+                ]
+            ]
+        },
+        {
+            "name": "Djelfa",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 43103,
+                    "season": "Summer",
+                    "required_quantity": 406322,
+                    "deficit": 363219,
+                    "unit_price": 54.06
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 406322,
+                    "season": "Winter",
+                    "required_quantity": 34400,
+                    "deficit": -371922,
+                    "unit_price": 56.89
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 616,
+                    "season": "Winter",
+                    "required_quantity": 600,
+                    "deficit": -16,
+                    "unit_price": 432.93
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 316931,
+                    "season": "Winter",
+                    "required_quantity": 26832,
+                    "deficit": -290099,
+                    "unit_price": 62.88
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 864,
+                    "season": "Summer",
+                    "required_quantity": 154000,
+                    "deficit": 153136,
+                    "unit_price": 115.87
+                }
+            ],
+            "latitude": "34.6704",
+            "longitude": "3.2504",
+            "routes": [
+                [
+                    "Ouled Djellal",
+                    198.22548759007196
+                ],
+                [
+                    "Medea",
+                    188.80860284806946
+                ],
+                [
+                    "M'Sila",
+                    179.036928559135
+                ],
+                [
+                    "Ghardaia",
+                    235.9115723090937
+                ],
+                [
+                    "Ouargla",
+                    330.6658282037369
+                ],
+                [
+                    "Laghouat",
+                    108.11163380082557
+                ],
+                [
+                    "Tiaret",
+                    192.65581158339123
+                ],
+                [
+                    "Tissemsilt",
+                    196.2116790673609
+                ]
+            ]
+        },
+        {
+            "name": "Jijel",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 450,
+                    "season": "Winter",
+                    "required_quantity": 54300,
+                    "deficit": 53850,
+                    "unit_price": 58.27
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 547,
+                    "season": "Spring",
+                    "required_quantity": 40000,
+                    "deficit": 39453,
+                    "unit_price": 71.38
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 657,
+                    "season": "Summer",
+                    "required_quantity": 45600,
+                    "deficit": 44943,
+                    "unit_price": 545.9
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 426,
+                    "season": "Summer",
+                    "required_quantity": 31200,
+                    "deficit": 30774,
+                    "unit_price": 65.89
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 105453,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -104453,
+                    "unit_price": 83.21
+                }
+            ],
+            "latitude": "36.8210",
+            "longitude": "5.7634",
+            "routes": [
+                [
+                    "Skikda",
+                    132.09977208369727
+                ],
+                [
+                    "Bejaia",
+                    82.54824008165295
+                ],
+                [
+                    "Mila",
+                    67.2546563674627
+                ],
+                [
+                    "Setif",
+                    76.43711242759571
+                ]
+            ]
+        },
+        {
+            "name": "Setif",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 3000034,
+                    "season": "Summer",
+                    "required_quantity": 2600050,
+                    "deficit": -399984,
+                    "unit_price": 53.99
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 3435,
+                    "season": "Winter",
+                    "required_quantity": 43435,
+                    "deficit": 40000,
+                    "unit_price": 57.85
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 791,
+                    "season": "Winter",
+                    "required_quantity": 60980,
+                    "deficit": 60189,
+                    "unit_price": 418.05
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 2679,
+                    "season": "Winter",
+                    "required_quantity": 33879,
+                    "deficit": 31200,
+                    "unit_price": 55.3
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 860,
+                    "season": "Summer",
+                    "required_quantity": 104500,
+                    "deficit": 103640,
+                    "unit_price": 91.16
+                }
+            ],
+            "latitude": "36.1898",
+            "longitude": "5.4108",
+            "routes": [
+                [
+                    "Batna",
+                    274.710886319993
+                ],
+                [
+                    "M'Sila",
+                    112.92311606876191
+                ],
+                [
+                    "Bordj Bou Arreridj",
+                    73.63893083791618
+                ],
+                [
+                    "Bejaia",
+                    78.783741669902
+                ],
+                [
+                    "Jijel",
+                    76.43711242759571
+                ],
+                [
+                    "Mila",
+                    96.54404464267657
+                ]
+            ]
+        },
+        {
+            "name": "Saida",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 54240,
+                    "season": "Winter",
+                    "required_quantity": 223500,
+                    "deficit": 169260,
+                    "unit_price": 50.21
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 3434305,
+                    "season": "Spring",
+                    "required_quantity": 345032,
+                    "deficit": -3089273,
+                    "unit_price": 62.79
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 794,
+                    "season": "Summer",
+                    "required_quantity": 68700,
+                    "deficit": 67906,
+                    "unit_price": 462.51
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 2678757,
+                    "season": "Summer",
+                    "required_quantity": 269124,
+                    "deficit": -2409633,
+                    "unit_price": 58.17
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 891,
+                    "season": "Winter",
+                    "required_quantity": 105400,
+                    "deficit": 104509,
+                    "unit_price": 122.23
+                }
+            ],
+            "latitude": "34.8382",
+            "longitude": "0.1481",
+            "routes": [
+                [
+                    "Tiaret",
+                    149.7627241591061
+                ],
+                [
+                    "Mascara",
+                    60.16571683077656
+                ],
+                [
+                    "Sidi Bel Abbes",
+                    95.57781728432387
+                ],
+                [
+                    "El Bayadh",
+                    267.64248935947364
+                ]
+            ]
+        },
+        {
+            "name": "Skikda",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 679,
+                    "season": "Summer",
+                    "required_quantity": 55400,
+                    "deficit": 54721,
+                    "unit_price": 55.49
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 3434534,
+                    "season": "Winter",
+                    "required_quantity": 3234542,
+                    "deficit": -199992,
+                    "unit_price": 52.26
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 64,
+                    "season": "Winter",
+                    "required_quantity": 34300,
+                    "deficit": 34236,
+                    "unit_price": 397.0
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 2678936,
+                    "season": "Winter",
+                    "required_quantity": 2522942,
+                    "deficit": -155994,
+                    "unit_price": 59.04
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 85673,
+                    "season": "Summer",
+                    "required_quantity": 1000,
+                    "deficit": -84673,
+                    "unit_price": 105.58
+                }
+            ],
+            "latitude": "36.8621",
+            "longitude": "6.9055",
+            "routes": [
+                [
+                    "Jijel",
+                    132.09977208369727
+                ],
+                [
+                    "Annaba",
+                    90.12994233523911
+                ],
+                [
+                    "Guelma",
+                    72.24129090526566
+                ],
+                [
+                    "Constantine",
+                    65.47926803167212
+                ],
+                [
+                    "Mila",
+                    89.73716016620135
+                ]
+            ]
+        },
+        {
+            "name": "Sidi Bel Abbes",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 374306,
+                    "season": "Winter",
+                    "required_quantity": 33500,
+                    "deficit": -340806,
+                    "unit_price": 54.8
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 56545,
+                    "season": "Spring",
+                    "required_quantity": 4564,
+                    "deficit": -51981,
+                    "unit_price": 70.87
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 755,
+                    "season": "Summer",
+                    "required_quantity": 600,
+                    "deficit": -155,
+                    "unit_price": 327.84
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 44105,
+                    "season": "Summer",
+                    "required_quantity": 3559,
+                    "deficit": -40546,
+                    "unit_price": 48.34
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1190,
+                    "season": "Winter",
+                    "required_quantity": 56653,
+                    "deficit": 55463,
+                    "unit_price": 124.46
+                }
+            ],
+            "latitude": "35.2106",
+            "longitude": "0.6300",
+            "routes": [
+                [
+                    "Tlemcen",
+                    83.61669842132852
+                ],
+                [
+                    "Oran",
+                    55.64607101072176
+                ],
+                [
+                    "Naama",
+                    223.94427105780426
+                ],
+                [
+                    "Saida",
+                    95.57781728432387
+                ],
+                [
+                    "El Bayadh",
+                    341.5447130571273
+                ],
+                [
+                    "Mascara",
+                    89.40557723111215
+                ],
+                [
+                    "Ain Temouchent",
+                    52.41881919251427
+                ]
+            ]
+        },
+        {
+            "name": "Annaba",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 413,
+                    "season": "Summer",
+                    "required_quantity": 54500,
+                    "deficit": 54087,
+                    "unit_price": 59.09
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 387,
+                    "season": "Winter",
+                    "required_quantity": 400,
+                    "deficit": 13,
+                    "unit_price": 58.27
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 707,
+                    "season": "Winter",
+                    "required_quantity": 600,
+                    "deficit": -107,
+                    "unit_price": 319.98
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 301,
+                    "season": "Winter",
+                    "required_quantity": 312,
+                    "deficit": 11,
+                    "unit_price": 69.85
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 115423,
+                    "season": "Summer",
+                    "required_quantity": 1000,
+                    "deficit": -114423,
+                    "unit_price": 119.41
+                }
+            ],
+            "latitude": "36.8974",
+            "longitude": "7.7500",
+            "routes": [
+                [
+                    "Skikda",
+                    90.12994233523911
+                ],
+                [
+                    "El Tarf",
+                    64.13780692730766
+                ],
+                [
+                    "Guelma",
+                    61.56392223949728
+                ]
+            ]
+        },
+        {
+            "name": "Guelma",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 617,
+                    "season": "Winter",
+                    "required_quantity": 50320,
+                    "deficit": 49703,
+                    "unit_price": 50.29
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 5645,
+                    "season": "Spring",
+                    "required_quantity": 45353,
+                    "deficit": 39708,
+                    "unit_price": 60.45
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 557,
+                    "season": "Summer",
+                    "required_quantity": 600,
+                    "deficit": 43,
+                    "unit_price": 523.21
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 4403,
+                    "season": "Summer",
+                    "required_quantity": 35375,
+                    "deficit": 30972,
+                    "unit_price": 56.99
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 8453,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -7453,
+                    "unit_price": 104.78
+                }
+            ],
+            "latitude": "36.4627",
+            "longitude": "7.4331",
+            "routes": [
+                [
+                    "Skikda",
+                    72.24129090526566
+                ],
+                [
+                    "El Tarf",
+                    101.58000824906934
+                ],
+                [
+                    "Annaba",
+                    61.56392223949728
+                ],
+                [
+                    "Souk Ahras",
+                    61.705811177810396
+                ],
+                [
+                    "Oum El Bouaghi",
+                    73.3734455719045
+                ],
+                [
+                    "Constantine",
+                    78.90432501739355
+                ]
+            ]
+        },
+        {
+            "name": "Constantine",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 90597,
+                    "season": "Summer",
+                    "required_quantity": 590340,
+                    "deficit": 499743,
+                    "unit_price": 59.38
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 453,
+                    "season": "Winter",
+                    "required_quantity": 345345,
+                    "deficit": 344892,
+                    "unit_price": 75.45
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 5554,
+                    "season": "Winter",
+                    "required_quantity": 6040,
+                    "deficit": 486,
+                    "unit_price": 421.12
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 353,
+                    "season": "Winter",
+                    "required_quantity": 269369,
+                    "deficit": 269016,
+                    "unit_price": 65.03
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 86459,
+                    "season": "Summer",
+                    "required_quantity": 100450,
+                    "deficit": 13991,
+                    "unit_price": 125.76
+                }
+            ],
+            "latitude": "36.3570",
+            "longitude": "6.6390",
+            "routes": [
+                [
+                    "Skikda",
+                    65.47926803167212
+                ],
+                [
+                    "Jijel",
+                    121.70463843333621
+                ],
+                [
+                    "Oum El Bouaghi",
+                    65.02065740459452
+                ],
+                [
+                    "Guelma",
+                    78.90432501739355
+                ],
+                [
+                    "Mila",
+                    56.22399952785572
+                ]
+            ]
+        },
+        {
+            "name": "Medea",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 43469,
+                    "season": "Winter",
+                    "required_quantity": 55400,
+                    "deficit": 11931,
+                    "unit_price": 59.85
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 43534,
+                    "season": "Spring",
+                    "required_quantity": 45345,
+                    "deficit": 1811,
+                    "unit_price": 76.36
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 57657,
+                    "season": "Summer",
+                    "required_quantity": 60580,
+                    "deficit": 2923,
+                    "unit_price": 561.28
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 33956,
+                    "season": "Summer",
+                    "required_quantity": 35369,
+                    "deficit": 1413,
+                    "unit_price": 54.41
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1015,
+                    "season": "Winter",
+                    "required_quantity": 10400,
+                    "deficit": 9385,
+                    "unit_price": 96.55
+                }
+            ],
+            "latitude": "36.2636",
+            "longitude": "2.7587",
+            "routes": [
+                [
+                    "Tissemsilt",
+                    131.85275138569077
+                ],
+                [
+                    "Ain Defla",
+                    68.44157196782602
+                ],
+                [
+                    "Blida",
+                    22.04213838402239
+                ],
+                [
+                    "Djelfa",
+                    188.80860284806946
+                ],
+                [
+                    "M'Sila",
+                    203.92746317228148
+                ],
+                [
+                    "Bouira",
+                    128.39232235711006
+                ]
+            ]
+        },
+        {
+            "name": "Mostaganem",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 6217,
+                    "season": "Summer",
+                    "required_quantity": 50430,
+                    "deficit": 44213,
+                    "unit_price": 51.67
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 78956,
+                    "season": "Winter",
+                    "required_quantity": 9896,
+                    "deficit": -69060,
+                    "unit_price": 78.94
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 5065,
+                    "season": "Winter",
+                    "required_quantity": 66500,
+                    "deficit": 61435,
+                    "unit_price": 576.61
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 61585,
+                    "season": "Winter",
+                    "required_quantity": 7718,
+                    "deficit": -53867,
+                    "unit_price": 66.97
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 111538,
+                    "season": "Summer",
+                    "required_quantity": 1000,
+                    "deficit": -110538,
+                    "unit_price": 98.91
+                }
+            ],
+            "latitude": "35.9311",
+            "longitude": "0.0909",
+            "routes": [
+                [
+                    "Oran",
+                    89.15624988325187
+                ],
+                [
+                    "Mascara",
+                    65.99298767661084
+                ],
+                [
+                    "Relizane",
+                    85.78168039631895
+                ],
+                [
+                    "Chlef",
+                    139.4447814802844
+                ]
+            ]
+        },
+        {
+            "name": "M'Sila",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 23630,
+                    "season": "Winter",
+                    "required_quantity": 352500,
+                    "deficit": 328870,
+                    "unit_price": 57.67
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 86657,
+                    "season": "Spring",
+                    "required_quantity": 67845,
+                    "deficit": -18812,
+                    "unit_price": 78.99
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 72983,
+                    "season": "Summer",
+                    "required_quantity": 65600,
+                    "deficit": -7383,
+                    "unit_price": 416.8
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 67592,
+                    "season": "Summer",
+                    "required_quantity": 52919,
+                    "deficit": -14673,
+                    "unit_price": 48.0
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1180,
+                    "season": "Winter",
+                    "required_quantity": 104500,
+                    "deficit": 103320,
+                    "unit_price": 105.76
+                }
+            ],
+            "latitude": "35.7187",
+            "longitude": "4.5233",
+            "routes": [
+                [
+                    "Batna",
+                    163.15718672362013
+                ],
+                [
+                    "Biskra",
+                    165.09813630971925
+                ],
+                [
+                    "Ouled Djellal",
+                    155.16026409127372
+                ],
+                [
+                    "Djelfa",
+                    179.036928559135
+                ],
+                [
+                    "Medea",
+                    203.92746317228148
+                ],
+                [
+                    "Bouira",
+                    85.30932455768108
+                ],
+                [
+                    "Bordj Bou Arreridj",
+                    47.527541870895796
+                ],
+                [
+                    "Setif",
+                    112.92311606876191
+                ]
+            ]
+        },
+        {
+            "name": "Mascara",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 334480,
+                    "season": "Summer",
+                    "required_quantity": 53400,
+                    "deficit": -281080,
+                    "unit_price": 57.37
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 5764745,
+                    "season": "Winter",
+                    "required_quantity": 5545543,
+                    "deficit": -219202,
+                    "unit_price": 79.66
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 723,
+                    "season": "Winter",
+                    "required_quantity": 60340,
+                    "deficit": 59617,
+                    "unit_price": 462.93
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 4496501,
+                    "season": "Winter",
+                    "required_quantity": 4325523,
+                    "deficit": -170978,
+                    "unit_price": 65.65
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 95961,
+                    "season": "Summer",
+                    "required_quantity": 10700,
+                    "deficit": -85261,
+                    "unit_price": 114.45
+                }
+            ],
+            "latitude": "35.3904",
+            "longitude": "0.1495",
+            "routes": [
+                [
+                    "Oran",
+                    95.43050277374209
+                ],
+                [
+                    "Mostaganem",
+                    65.99298767661084
+                ],
+                [
+                    "Relizane",
+                    92.13950006177623
+                ],
+                [
+                    "Tiaret",
+                    137.6115661903622
+                ],
+                [
+                    "Saida",
+                    60.16571683077656
+                ],
+                [
+                    "Sidi Bel Abbes",
+                    89.40557723111215
+                ]
+            ]
+        },
+        {
+            "name": "Ouargla",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 34316,
+                    "season": "Winter",
+                    "required_quantity": 334500,
+                    "deficit": 300184,
+                    "unit_price": 50.24
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 55285976,
+                    "season": "Spring",
+                    "required_quantity": 55000000,
+                    "deficit": -285976,
+                    "unit_price": 54.89
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 1645683,
+                    "season": "Summer",
+                    "required_quantity": 1323430,
+                    "deficit": -322253,
+                    "unit_price": 587.63
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 43123061,
+                    "season": "Summer",
+                    "required_quantity": 42900000,
+                    "deficit": -223061,
+                    "unit_price": 62.23
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 85696,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -84696,
+                    "unit_price": 118.44
+                }
+            ],
+            "latitude": "31.9527",
+            "longitude": "5.3335",
+            "routes": [
+                [
+                    "In Salah",
+                    825.2835386785231
+                ],
+                [
+                    "Ghardaia",
+                    142.25493464841168
+                ],
+                [
+                    "El Menia",
+                    1400.403680129428
+                ],
+                [
+                    "Illizi",
+                    739.9911855039741
+                ],
+                [
+                    "Djelfa",
+                    330.6658282037369
+                ],
+                [
+                    "Ouled Djellal",
+                    248.07159482016124
+                ],
+                [
+                    "Touggourt",
+                    158.63649437413378
+                ],
+                [
+                    "El M'ghair",
+                    619.4181194509181
+                ],
+                [
+                    "El Oued",
+                    247.47862906671045
+                ]
+            ]
+        },
+        {
+            "name": "Oran",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 34430,
+                    "season": "Summer",
+                    "required_quantity": 250450,
+                    "deficit": 216020,
+                    "unit_price": 52.15
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 552,
+                    "season": "Winter",
+                    "required_quantity": 400,
+                    "deficit": -152,
+                    "unit_price": 73.1
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 6634,
+                    "season": "Winter",
+                    "required_quantity": 6600,
+                    "deficit": -34,
+                    "unit_price": 366.42
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 430,
+                    "season": "Winter",
+                    "required_quantity": 312,
+                    "deficit": -118,
+                    "unit_price": 53.41
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 8787,
+                    "season": "Summer",
+                    "required_quantity": 1000,
+                    "deficit": -7787,
+                    "unit_price": 119.92
+                }
+            ],
+            "latitude": "35.6987",
+            "longitude": "0.6349",
+            "routes": [
+                [
+                    "Mostaganem",
+                    89.15624988325187
+                ],
+                [
+                    "Mascara",
+                    95.43050277374209
+                ],
+                [
+                    "Sidi Bel Abbes",
+                    55.64607101072176
+                ],
+                [
+                    "Ain Temouchent",
+                    57.337298504165105
+                ]
+            ]
+        },
+        {
+            "name": "El Bayadh",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 38438,
+                    "season": "Winter",
+                    "required_quantity": 234500,
+                    "deficit": 196062,
+                    "unit_price": 51.5
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 3456,
+                    "season": "Spring",
+                    "required_quantity": 45343,
+                    "deficit": 41887,
+                    "unit_price": 60.49
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 648,
+                    "season": "Summer",
+                    "required_quantity": 60450,
+                    "deficit": 59802,
+                    "unit_price": 395.18
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 2695,
+                    "season": "Summer",
+                    "required_quantity": 35367,
+                    "deficit": 32672,
+                    "unit_price": 47.84
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1184,
+                    "season": "Winter",
+                    "required_quantity": 10900,
+                    "deficit": 9716,
+                    "unit_price": 128.46
+                }
+            ],
+            "latitude": "33.6854",
+            "longitude": "1.0304",
+            "routes": [
+                [
+                    "Sidi Bel Abbes",
+                    230.5447130571273
+                ],
+                [
+                    "Saida",
+                    152.64248935947364
+                ],
+                [
+                    "Tiaret",
+                    190.7802249302145
+                ],
+                [
+                    "Laghouat",
+                    170.82603011860067
+                ],
+                [
+                    "Ghardaia",
+                    276.85714612975426
+                ],
+                [
+                    "El Menia",
+                    385.9352406217438
+                ],
+                [
+                    "Timimoun",
+                    496.5478429853782
+                ],
+                [
+                    "Beni Abbes",
+                    500.1578070416167
+                ],
+                [
+                    "Bechar",
+                    387.08526998692315
+                ],
+                [
+                    "Naama",
+                    135.94469836589266
+                ]
+            ]
+        },
+        {
+            "name": "Illizi",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 65349,
+                    "season": "Summer",
+                    "required_quantity": 434500,
+                    "deficit": 369151,
+                    "unit_price": 58.51
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 54645,
+                    "season": "Winter",
+                    "required_quantity": 456,
+                    "deficit": -54189,
+                    "unit_price": 77.39
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 300002,
+                    "season": "Winter",
+                    "required_quantity": 12600,
+                    "deficit": -287402,
+                    "unit_price": 539.39
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 42623,
+                    "season": "Winter",
+                    "required_quantity": 355,
+                    "deficit": -42268,
+                    "unit_price": 66.53
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 802,
+                    "season": "Summer",
+                    "required_quantity": 10090,
+                    "deficit": 9288,
+                    "unit_price": 84.09
+                }
+            ],
+            "latitude": "26.5081",
+            "longitude": "8.4830",
+            "routes": [
+                [
+                    "Ouargla",
+                    679.9911855039741
+                ],
+                [
+                    "In Salah",
+                    600.3334251884157
+                ],
+                [
+                    "Tamanrasset",
+                    561.5353047369301
+                ],
+                [
+                    "Djanet",
+                    241.76243182388924
+                ]
+            ]
+        },
+        {
+            "name": "Bordj Bou Arreridj",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 134610,
+                    "season": "Winter",
+                    "required_quantity": 534300,
+                    "deficit": 399690,
+                    "unit_price": 51.06
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 456428,
+                    "season": "Spring",
+                    "required_quantity": 65453,
+                    "deficit": -390975,
+                    "unit_price": 65.64
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 532460,
+                    "season": "Summer",
+                    "required_quantity": 645400,
+                    "deficit": 112940,
+                    "unit_price": 431.14
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 356013,
+                    "season": "Summer",
+                    "required_quantity": 51053,
+                    "deficit": -304960,
+                    "unit_price": 57.86
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1066,
+                    "season": "Winter",
+                    "required_quantity": 10000,
+                    "deficit": 8934,
+                    "unit_price": 98.11
+                }
+            ],
+            "latitude": "36.0740",
+            "longitude": "4.7630",
+            "routes": [
+                [
+                    "Bejaia",
+                    82.09415424699485
+                ],
+                [
+                    "Bouira",
+                    95.13409048571711
+                ],
+                [
+                    "M'Sila",
+                    47.527541870895796
+                ],
+                [
+                    "Setif",
+                    73.63893083791618
+                ]
+            ]
+        },
+        {
+            "name": "Boumerdes",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 485,
+                    "season": "Summer",
+                    "required_quantity": 53200,
+                    "deficit": 52715,
+                    "unit_price": 56.82
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 496,
+                    "season": "Winter",
+                    "required_quantity": 445600,
+                    "deficit": 445104,
+                    "unit_price": 55.77
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 456,
+                    "season": "Winter",
+                    "required_quantity": 60340,
+                    "deficit": 59884,
+                    "unit_price": 406.51
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 386,
+                    "season": "Winter",
+                    "required_quantity": 347568,
+                    "deficit": 347182,
+                    "unit_price": 45.75
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 111784,
+                    "season": "Summer",
+                    "required_quantity": 1000,
+                    "deficit": -110784,
+                    "unit_price": 86.16
+                }
+            ],
+            "latitude": "36.7591",
+            "longitude": "3.4731",
+            "routes": [
+                [
+                    "Alger",
+                    48.246135227678145
+                ],
+                [
+                    "Bouira",
+                    77.58294717221759
+                ],
+                [
+                    "Blida",
+                    82.70323288616407
+                ],
+                [
+                    "Tizi Ouzou",
+                    65.26274475716237
+                ]
+            ]
+        },
+        {
+            "name": "El Tarf",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 834436,
+                    "season": "Winter",
+                    "required_quantity": 523400,
+                    "deficit": -311036,
+                    "unit_price": 54.59
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 45656,
+                    "season": "Spring",
+                    "required_quantity": 400,
+                    "deficit": -45256,
+                    "unit_price": 74.67
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 556,
+                    "season": "Summer",
+                    "required_quantity": 60430,
+                    "deficit": 59874,
+                    "unit_price": 524.82
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 35611,
+                    "season": "Summer",
+                    "required_quantity": 312,
+                    "deficit": -35299,
+                    "unit_price": 52.44
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 10056,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -9056,
+                    "unit_price": 126.0
+                }
+            ],
+            "latitude": "36.7668",
+            "longitude": "8.3168",
+            "routes": [
+                [
+                    "Annaba",
+                    64.13780692730766
+                ],
+                [
+                    "Guelma",
+                    86.58000824906934
+                ],
+                [
+                    "Souk Ahras",
+                    64.52407919621909
+                ]
+            ]
+        },
+        {
+            "name": "Tindouf",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 34474,
+                    "season": "Summer",
+                    "required_quantity": 250450,
+                    "deficit": 215976,
+                    "unit_price": 52.41
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 469,
+                    "season": "Winter",
+                    "required_quantity": 64564,
+                    "deficit": 64095,
+                    "unit_price": 68.56
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 74632,
+                    "season": "Winter",
+                    "required_quantity": 6300,
+                    "deficit": -68332,
+                    "unit_price": 465.76
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 365,
+                    "season": "Winter",
+                    "required_quantity": 50359,
+                    "deficit": 49994,
+                    "unit_price": 58.28
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 834,
+                    "season": "Summer",
+                    "required_quantity": 104500,
+                    "deficit": 103666,
+                    "unit_price": 129.63
+                }
+            ],
+            "latitude": "27.6771",
+            "longitude": "8.1284",
+            "routes": [
+                [
+                    "Beni Abbes",
+                    646.5814257347854
+                ],
+                [
+                    "Adrar",
+                    774.4710760205356
+                ]
+            ]
+        },
+        {
+            "name": "Tissemsilt",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 312341,
+                    "season": "Winter",
+                    "required_quantity": 53400,
+                    "deficit": -258941,
+                    "unit_price": 54.47
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 6575,
+                    "season": "Spring",
+                    "required_quantity": 80978,
+                    "deficit": 74403,
+                    "unit_price": 78.85
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 74823,
+                    "season": "Summer",
+                    "required_quantity": 62300,
+                    "deficit": -12523,
+                    "unit_price": 537.53
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 5128,
+                    "season": "Summer",
+                    "required_quantity": 63162,
+                    "deficit": 58034,
+                    "unit_price": 57.19
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1187,
+                    "season": "Winter",
+                    "required_quantity": 15000,
+                    "deficit": 13813,
+                    "unit_price": 116.33
+                }
+            ],
+            "latitude": "35.6054",
+            "longitude": "1.8131",
+            "routes": [
+                [
+                    "Chlef",
+                    80.34783407450699
+                ],
+                [
+                    "Ain Defla",
+                    71.8241689090559
+                ],
+                [
+                    "Djelfa",
+                    196.2116790673609
+                ],
+                [
+                    "Medea",
+                    112.85275138569077
+                ],
+                [
+                    "Tiaret",
+                    52.99975267965317
+                ],
+                [
+                    "Relizane",
+                    106.36296542917398
+                ]
+            ]
+        },
+        {
+            "name": "El Oued",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 4348,
+                    "season": "Summer",
+                    "required_quantity": 234500,
+                    "deficit": 230152,
+                    "unit_price": 58.13
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 45646654,
+                    "season": "Winter",
+                    "required_quantity": 45464456,
+                    "deficit": -182198,
+                    "unit_price": 70.25
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 73923,
+                    "season": "Winter",
+                    "required_quantity": 62300,
+                    "deficit": -11623,
+                    "unit_price": 317.28
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 35604390,
+                    "season": "Winter",
+                    "required_quantity": 35462275,
+                    "deficit": -142115,
+                    "unit_price": 65.39
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 81543,
+                    "season": "Summer",
+                    "required_quantity": 10040,
+                    "deficit": -71503,
+                    "unit_price": 114.74
+                }
+            ],
+            "latitude": "33.3678",
+            "longitude": "6.8517",
+            "routes": [
+                [
+                    "Tbessa",
+                    264.5982440270143
+                ],
+                [
+                    "Khenchela",
+                    228.97813667925834
+                ],
+                [
+                    "Biskra",
+                    206.44955922709607
+                ],
+                [
+                    "El M'ghair",
+                    107.3656641057248
+                ],
+                [
+                    "Touggourt",
+                    92.89420710737413
+                ],
+                [
+                    "Ouargla",
+                    247.47862906671045
+                ]
+            ]
+        },
+        {
+            "name": "Khenchela",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 86367,
+                    "season": "Winter",
+                    "required_quantity": 56700,
+                    "deficit": -29667,
+                    "unit_price": 59.68
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 6756,
+                    "season": "Spring",
+                    "required_quantity": 456645,
+                    "deficit": 449889,
+                    "unit_price": 69.03
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 69032,
+                    "season": "Summer",
+                    "required_quantity": 32600,
+                    "deficit": -36432,
+                    "unit_price": 489.74
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 5269,
+                    "season": "Summer",
+                    "required_quantity": 356183,
+                    "deficit": 350914,
+                    "unit_price": 49.43
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 10843,
+                    "season": "Winter",
+                    "required_quantity": 10040,
+                    "deficit": -803,
+                    "unit_price": 105.34
+                }
+            ],
+            "latitude": "35.4269",
+            "longitude": "7.1460",
+            "routes": [
+                [
+                    "Batna",
+                    90.7954473931689
+                ],
+                [
+                    "El Oued",
+                    228.97813667925834
+                ],
+                [
+                    "Biskra",
+                    169.8561715167411
+                ],
+                [
+                    "Tbessa",
+                    88.77450171714182
+                ],
+                [
+                    "Oum El Bouaghi",
+                    49.308124005944535
+                ]
+            ]
+        },
+        {
+            "name": "Souk Ahras",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 310992,
+                    "season": "Summer",
+                    "required_quantity": 90500,
+                    "deficit": -220492,
+                    "unit_price": 50.84
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 5435,
+                    "season": "Winter",
+                    "required_quantity": 34545,
+                    "deficit": 29110,
+                    "unit_price": 70.51
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 76422,
+                    "season": "Winter",
+                    "required_quantity": 600,
+                    "deficit": -75822,
+                    "unit_price": 330.77
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 4239,
+                    "season": "Winter",
+                    "required_quantity": 26945,
+                    "deficit": 22706,
+                    "unit_price": 60.63
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1171,
+                    "season": "Summer",
+                    "required_quantity": 1000,
+                    "deficit": -171,
+                    "unit_price": 121.82
+                }
+            ],
+            "latitude": "36.2800",
+            "longitude": "7.9383",
+            "routes": [
+                [
+                    "El Tarf",
+                    64.52407919621909
+                ],
+                [
+                    "Guelma",
+                    61.705811177810396
+                ],
+                [
+                    "Tbessa",
+                    96.83593543324685
+                ],
+                [
+                    "Oum El Bouaghi",
+                    103.65740644625062
+                ]
+            ]
+        },
+        {
+            "name": "Tipaza",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 35491,
+                    "season": "Winter",
+                    "required_quantity": 508990,
+                    "deficit": 473499,
+                    "unit_price": 58.8
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 5644,
+                    "season": "Spring",
+                    "required_quantity": 56464,
+                    "deficit": 50820,
+                    "unit_price": 58.57
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 60423,
+                    "season": "Summer",
+                    "required_quantity": 61200,
+                    "deficit": 777,
+                    "unit_price": 327.86
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 4402,
+                    "season": "Summer",
+                    "required_quantity": 44041,
+                    "deficit": 39639,
+                    "unit_price": 50.3
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1056,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -56,
+                    "unit_price": 92.6
+                }
+            ],
+            "latitude": "36.5907",
+            "longitude": "2.4434",
+            "routes": [
+                [
+                    "Alger",
+                    74.24214086711788
+                ],
+                [
+                    "Blida",
+                    45.55255200338428
+                ],
+                [
+                    "Ain Defla",
+                    58.17980474346998
+                ],
+                [
+                    "Chlef",
+                    126.59014869457586
+                ]
+            ]
+        },
+        {
+            "name": "Mila",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 2514523,
+                    "season": "Summer",
+                    "required_quantity": 2287500,
+                    "deficit": -227023,
+                    "unit_price": 52.76
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 56456,
+                    "season": "Winter",
+                    "required_quantity": 56445,
+                    "deficit": -11,
+                    "unit_price": 69.73
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 7634,
+                    "season": "Winter",
+                    "required_quantity": 62300,
+                    "deficit": 54666,
+                    "unit_price": 481.42
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 44035,
+                    "season": "Winter",
+                    "required_quantity": 44027,
+                    "deficit": -8,
+                    "unit_price": 61.17
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1117,
+                    "season": "Summer",
+                    "required_quantity": 1000,
+                    "deficit": -117,
+                    "unit_price": 87.38
+                }
+            ],
+            "latitude": "36.4519",
+            "longitude": "6.2584",
+            "routes": [
+                [
+                    "Constantine",
+                    56.22399952785572
+                ],
+                [
+                    "Skikda",
+                    89.73716016620135
+                ],
+                [
+                    "Jijel",
+                    67.2546563674627
+                ],
+                [
+                    "Setif",
+                    96.54404464267657
+                ],
+                [
+                    "Batna",
+                    101.14461021532213
+                ],
+                [
+                    "Oum El Bouaghi",
+                    115.89023747511388
+                ]
+            ]
+        },
+        {
+            "name": "Ain Defla",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 376893,
+                    "season": "Winter",
+                    "required_quantity": 77500,
+                    "deficit": -299393,
+                    "unit_price": 56.07
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 25646556,
+                    "season": "Spring",
+                    "required_quantity": 25646556,
+                    "deficit": 0,
+                    "unit_price": 53.95
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 46344,
+                    "season": "Summer",
+                    "required_quantity": 346200,
+                    "deficit": 299856,
+                    "unit_price": 597.48
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 20004313,
+                    "season": "Summer",
+                    "required_quantity": 20004313,
+                    "deficit": 0,
+                    "unit_price": 63.42
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 97042,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -96042,
+                    "unit_price": 86.98
+                }
+            ],
+            "latitude": "36.2552",
+            "longitude": "1.9563",
+            "routes": [
+                [
+                    "Blida",
+                    79.61053998374352
+                ],
+                [
+                    "Tipaza",
+                    58.17980474346998
+                ],
+                [
+                    "Chlef",
+                    91.66433696822831
+                ],
+                [
+                    "Medea",
+                    68.44157196782602
+                ],
+                [
+                    "Tissemsilt",
+                    71.8241689090559
+                ]
+            ]
+        },
+        {
+            "name": "Naama",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 416788,
+                    "season": "Summer",
+                    "required_quantity": 86500,
+                    "deficit": -330288,
+                    "unit_price": 53.1
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 475,
+                    "season": "Winter",
+                    "required_quantity": 5646,
+                    "deficit": 5171,
+                    "unit_price": 60.97
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 425043,
+                    "season": "Winter",
+                    "required_quantity": 64400,
+                    "deficit": -360643,
+                    "unit_price": 541.36
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 370,
+                    "season": "Winter",
+                    "required_quantity": 4403,
+                    "deficit": 4033,
+                    "unit_price": 54.24
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 931,
+                    "season": "Summer",
+                    "required_quantity": 10040,
+                    "deficit": 9109,
+                    "unit_price": 90.11
+                }
+            ],
+            "latitude": "33.2667",
+            "longitude": "0.3129",
+            "routes": [
+                [
+                    "Tlemcen",
+                    197.03217472801373
+                ],
+                [
+                    "Sidi Bel Abbes",
+                    223.94427105780426
+                ],
+                [
+                    "El Bayadh",
+                    206.94469836589266
+                ],
+                [
+                    "Bechar",
+                    213.0390731628185
+                ]
+            ]
+        },
+        {
+            "name": "Ain Temouchent",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 678570,
+                    "season": "Winter",
+                    "required_quantity": 150680,
+                    "deficit": -527890,
+                    "unit_price": 57.45
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 564456,
+                    "season": "Spring",
+                    "required_quantity": 456677,
+                    "deficit": -107779,
+                    "unit_price": 70.52
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 730,
+                    "season": "Summer",
+                    "required_quantity": 43600,
+                    "deficit": 42870,
+                    "unit_price": 588.12
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 440275,
+                    "season": "Summer",
+                    "required_quantity": 356208,
+                    "deficit": -84067,
+                    "unit_price": 51.05
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 10484,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -9484,
+                    "unit_price": 81.57
+                }
+            ],
+            "latitude": "35.3039",
+            "longitude": "1.1392",
+            "routes": [
+                [
+                    "Tlemcen",
+                    63.30238495638896
+                ],
+                [
+                    "Sidi Bel Abbes",
+                    52.41881919251427
+                ],
+                [
+                    "Oran",
+                    57.337298504165105
+                ]
+            ]
+        },
+        {
+            "name": "Ghardaia",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 34889,
+                    "season": "Summer",
+                    "required_quantity": 250500,
+                    "deficit": 215611,
+                    "unit_price": 53.28
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 6546,
+                    "season": "Winter",
+                    "required_quantity": 64547,
+                    "deficit": 58001,
+                    "unit_price": 76.79
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 234377,
+                    "season": "Winter",
+                    "required_quantity": 64300,
+                    "deficit": -170077,
+                    "unit_price": 374.45
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 5105,
+                    "season": "Winter",
+                    "required_quantity": 50346,
+                    "deficit": 45241,
+                    "unit_price": 58.27
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 924,
+                    "season": "Summer",
+                    "required_quantity": 61000,
+                    "deficit": 60076,
+                    "unit_price": 98.94
+                }
+            ],
+            "latitude": "32.4944",
+            "longitude": "3.6445",
+            "routes": [
+                [
+                    "Laghouat",
+                    163.98998890128942
+                ],
+                [
+                    "Djelfa",
+                    235.9115723090937
+                ],
+                [
+                    "Ouargla",
+                    142.25493464841168
+                ],
+                [
+                    "El Menia",
+                    225.7852458263196
+                ],
+                [
+                    "El Bayadh",
+                    278.85714612975426
+                ]
+            ]
+        },
+        {
+            "name": "Relizane",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 389342,
+                    "season": "Winter",
+                    "required_quantity": 53300,
+                    "deficit": -336042,
+                    "unit_price": 53.44
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 654,
+                    "season": "Spring",
+                    "required_quantity": 56443,
+                    "deficit": 55789,
+                    "unit_price": 68.85
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 439,
+                    "season": "Summer",
+                    "required_quantity": 60034,
+                    "deficit": 59595,
+                    "unit_price": 581.86
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 510,
+                    "season": "Summer",
+                    "required_quantity": 44025,
+                    "deficit": 43515,
+                    "unit_price": 66.36
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 104679,
+                    "season": "Winter",
+                    "required_quantity": 1000,
+                    "deficit": -103679,
+                    "unit_price": 114.11
+                }
+            ],
+            "latitude": "35.7450",
+            "longitude": "0.5579",
+            "routes": [
+                [
+                    "Chlef",
+                    67.566156554684
+                ],
+                [
+                    "Mostaganem",
+                    85.78168039631895
+                ],
+                [
+                    "Mascara",
+                    92.13950006177623
+                ],
+                [
+                    "Tiaret",
+                    76.45775084352
+                ],
+                [
+                    "Tissemsilt",
+                    106.36296542917398
+                ]
+            ]
+        },
+        {
+            "name": "Timimoun",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 3483,
+                    "season": "Summer",
+                    "required_quantity": 34500,
+                    "deficit": 31017,
+                    "unit_price": 52.93
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 231,
+                    "season": "Winter",
+                    "required_quantity": 56445,
+                    "deficit": 56214,
+                    "unit_price": 52.11
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 242343,
+                    "season": "Winter",
+                    "required_quantity": 23600,
+                    "deficit": -218743,
+                    "unit_price": 530.18
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 180,
+                    "season": "Winter",
+                    "required_quantity": 44027,
+                    "deficit": 43847,
+                    "unit_price": 52.2
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 805,
+                    "season": "",
+                    "required_quantity": 186000,
+                    "deficit": 185195,
+                    "unit_price": 112.15
+                }
+            ],
+            "latitude": "29.2617",
+            "longitude": "0.2416",
+            "routes": [
+                [
+                    "El Menia",
+                    293.1612591782537
+                ],
+                [
+                    "El Bayadh",
+                    497.5478429853782
+                ],
+                [
+                    "In Salah",
+                    318.15994011572
+                ],
+                [
+                    "Adrar",
+                    162.4098377834362
+                ],
+                [
+                    "Bechar",
+                    352.1796554000864
+                ],
+                [
+                    "Beni Abbes",
+                    252.2125443651403
+                ]
+            ]
+        },
+        {
+            "name": "Bordj Baji Mokhtar",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 5733,
+                    "season": "Winter",
+                    "required_quantity": 235500,
+                    "deficit": 229767,
+                    "unit_price": 59.43
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 252,
+                    "season": "Spring",
+                    "required_quantity": 56443,
+                    "deficit": 56191,
+                    "unit_price": 67.21
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 54823,
+                    "season": "Summer",
+                    "required_quantity": 2600,
+                    "deficit": -52223,
+                    "unit_price": 304.25
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 196,
+                    "season": "Summer",
+                    "required_quantity": 44025,
+                    "deficit": 43829,
+                    "unit_price": 67.31
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1115,
+                    "season": "Winter",
+                    "required_quantity": 100780,
+                    "deficit": 99665,
+                    "unit_price": 103.54
+                }
+            ],
+            "latitude": "21.3255",
+            "longitude": "0.9525",
+            "routes": [
+                [
+                    "In Guezzam",
+                    558.072119022686
+                ],
+                [
+                    "Adrar",
+                    741.5667096211237
+                ],
+                [
+                    "Tamanrasset",
+                    500.8373142618389
+                ]
+            ]
+        },
+        {
+            "name": "Ouled Djellal",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 38332,
+                    "season": "Summer",
+                    "required_quantity": 53400,
+                    "deficit": 15068,
+                    "unit_price": 53.85
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 454,
+                    "season": "Winter",
+                    "required_quantity": 78786,
+                    "deficit": 78332,
+                    "unit_price": 53.09
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 141328,
+                    "season": "Winter",
+                    "required_quantity": 60340,
+                    "deficit": -80988,
+                    "unit_price": 523.79
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 354,
+                    "season": "Winter",
+                    "required_quantity": 61453,
+                    "deficit": 61099,
+                    "unit_price": 60.55
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1117,
+                    "season": "Summer",
+                    "required_quantity": 107500,
+                    "deficit": 106383,
+                    "unit_price": 106.73
+                }
+            ],
+            "latitude": "34.4304",
+            "longitude": "5.0612",
+            "routes": [
+                [
+                    "M'Sila",
+                    155.16026409127372
+                ],
+                [
+                    "Biskra",
+                    86.5813729544246
+                ],
+                [
+                    "El M'ghair",
+                    95.6461118115335
+                ],
+                [
+                    "Ouargla",
+                    277.07159482016124
+                ],
+                [
+                    "Djelfa",
+                    168.22548759007196
+                ]
+            ]
+        },
+        {
+            "name": "Beni Abbes",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 6593,
+                    "season": "Winter",
+                    "required_quantity": 342500,
+                    "deficit": 335907,
+                    "unit_price": 51.13
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 579,
+                    "season": "Spring",
+                    "required_quantity": 54644,
+                    "deficit": 54065,
+                    "unit_price": 68.36
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 584114,
+                    "season": "Summer",
+                    "required_quantity": 60320,
+                    "deficit": -523794,
+                    "unit_price": 445.27
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 451,
+                    "season": "Summer",
+                    "required_quantity": 42622,
+                    "deficit": 42171,
+                    "unit_price": 49.07
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1004,
+                    "season": "Winter",
+                    "required_quantity": 102200,
+                    "deficit": 101196,
+                    "unit_price": 103.79
+                }
+            ],
+            "latitude": "30.1312",
+            "longitude": "2.1662",
+            "routes": [
+                [
+                    "Adrar",
+                    309.4471734390719
+                ],
+                [
+                    "Timimoun",
+                    251.2125443651403
+                ],
+                [
+                    "Bechar",
+                    167.7886185387492
+                ],
+                [
+                    "El Bayadh",
+                    496.1578070416167
+                ],
+                [
+                    "Tindouf",
+                    640.5814257347854
+                ]
+            ]
+        },
+        {
+            "name": "In Salah",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 37321,
+                    "season": "Summer",
+                    "required_quantity": 342500,
+                    "deficit": 305179,
+                    "unit_price": 56.07
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 355,
+                    "season": "Winter",
+                    "required_quantity": 54644,
+                    "deficit": 54289,
+                    "unit_price": 64.46
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 54833,
+                    "season": "Winter",
+                    "required_quantity": 6030,
+                    "deficit": -48803,
+                    "unit_price": 350.04
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 276,
+                    "season": "Winter",
+                    "required_quantity": 42622,
+                    "deficit": 42346,
+                    "unit_price": 52.2
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 892,
+                    "season": "Summer",
+                    "required_quantity": 12000,
+                    "deficit": 11108,
+                    "unit_price": 128.38
+                }
+            ],
+            "latitude": "27.1978",
+            "longitude": "2.4818",
+            "routes": [
+                [
+                    "Ouargla",
+                    596.2835386785231
+                ],
+                [
+                    "Timimoun",
+                    318.15994011572
+                ],
+                [
+                    "El Menia",
+                    377.729054038971
+                ],
+                [
+                    "Illizi",
+                    600.3334251884157
+                ],
+                [
+                    "Tamanrasset",
+                    578.7315429136577
+                ],
+                [
+                    "Adrar",
+                    283.2090784475697
+                ]
+            ]
+        },
+        {
+            "name": "In Guezzam",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 6802,
+                    "season": "Winter",
+                    "required_quantity": 342500,
+                    "deficit": 335698,
+                    "unit_price": 51.98
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 451,
+                    "season": "Spring",
+                    "required_quantity": 46356,
+                    "deficit": 45905,
+                    "unit_price": 59.89
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 66341,
+                    "season": "Summer",
+                    "required_quantity": 6030,
+                    "deficit": -60311,
+                    "unit_price": 500.51
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 351,
+                    "season": "Summer",
+                    "required_quantity": 36157,
+                    "deficit": 35806,
+                    "unit_price": 51.86
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1109,
+                    "season": "Winter",
+                    "required_quantity": 100230,
+                    "deficit": 99121,
+                    "unit_price": 119.81
+                }
+            ],
+            "latitude": "19.5733",
+            "longitude": "5.7693",
+            "routes": [
+                [
+                    "Tamanrasset",
+                    358.6369085244386
+                ],
+                [
+                    "Bordj Baji Mokhtar",
+                    540.072119022686
+                ]
+            ]
+        },
+        {
+            "name": "Touggourt",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 64340,
+                    "season": "Summer",
+                    "required_quantity": 500332,
+                    "deficit": 435992,
+                    "unit_price": 52.91
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 234,
+                    "season": "Winter",
+                    "required_quantity": 56445,
+                    "deficit": 56211,
+                    "unit_price": 76.72
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 62383,
+                    "season": "Winter",
+                    "required_quantity": 60120,
+                    "deficit": -2263,
+                    "unit_price": 398.31
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 182,
+                    "season": "Winter",
+                    "required_quantity": 44027,
+                    "deficit": 43845,
+                    "unit_price": 55.57
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1055,
+                    "season": "Summer",
+                    "required_quantity": 103400,
+                    "deficit": 102345,
+                    "unit_price": 97.1
+                }
+            ],
+            "latitude": "33.1050",
+            "longitude": "6.0663",
+            "routes": [
+                [
+                    "El Oued",
+                    92.89420710737413
+                ],
+                [
+                    "Ouargla",
+                    158.63649437413378
+                ],
+                [
+                    "El M'ghair",
+                    766.809024761339
+                ]
+            ]
+        },
+        {
+            "name": "Djanet",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 39434,
+                    "season": "Winter",
+                    "required_quantity": 234500,
+                    "deficit": 195066,
+                    "unit_price": 59.79
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 589,
+                    "season": "Spring",
+                    "required_quantity": 43234,
+                    "deficit": 42645,
+                    "unit_price": 66.36
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 40214,
+                    "season": "Summer",
+                    "required_quantity": 6100,
+                    "deficit": -34114,
+                    "unit_price": 570.85
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 459,
+                    "season": "Summer",
+                    "required_quantity": 33722,
+                    "deficit": 33263,
+                    "unit_price": 69.84
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 1023,
+                    "season": "Winter",
+                    "required_quantity": 12000,
+                    "deficit": 10977,
+                    "unit_price": 107.26
+                }
+            ],
+            "latitude": "24.5542",
+            "longitude": "9.4854",
+            "routes": [
+                [
+                    "Tamanrasset",
+                    492.4607575766455
+                ],
+                [
+                    "Illizi",
+                    241.76243182388924
+                ]
+            ]
+        },
+        {
+            "name": "El M'ghair",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 4092,
+                    "season": "Summer",
+                    "required_quantity": 50024,
+                    "deficit": 45932,
+                    "unit_price": 58.8
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 502,
+                    "season": "Winter",
+                    "required_quantity": 34535,
+                    "deficit": 34033,
+                    "unit_price": 70.83
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 352196,
+                    "season": "Winter",
+                    "required_quantity": 61200,
+                    "deficit": -290996,
+                    "unit_price": 593.31
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 391,
+                    "season": "Winter",
+                    "required_quantity": 26937,
+                    "deficit": 26546,
+                    "unit_price": 47.72
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 809,
+                    "season": "Summer",
+                    "required_quantity": 103400,
+                    "deficit": 102591,
+                    "unit_price": 128.45
+                }
+            ],
+            "latitude": "33.9503",
+            "longitude": "5.9244",
+            "routes": [
+                [
+                    "Biskra",
+                    100.1672924482465
+                ],
+                [
+                    "Ouargla",
+                    230.4181194509181
+                ],
+                [
+                    "El Oued",
+                    106.3656641057248
+                ],
+                [
+                    "Touggourt",
+                    95.809024761339
+                ],
+                [
+                    "Ouled Djellal",
+                    95.6461118115335
+                ]
+            ]
+        },
+        {
+            "name": "El Menia",
+            "products": [
+                {
+                    "name": "Wheat",
+                    "quantity": 6031,
+                    "season": "Winter",
+                    "required_quantity": 34500,
+                    "deficit": 28469,
+                    "unit_price": 57.91
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 502,
+                    "season": "Spring",
+                    "required_quantity": 345545,
+                    "deficit": 345043,
+                    "unit_price": 68.18
+                },
+                {
+                    "name": "Dates",
+                    "quantity": 123600,
+                    "season": "Summer",
+                    "required_quantity": 63400,
+                    "deficit": -60200,
+                    "unit_price": 541.36
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": 391,
+                    "season": "Summer",
+                    "required_quantity": 269525,
+                    "deficit": 269134,
+                    "unit_price": 48.08
+                },
+                {
+                    "name": "Citrus",
+                    "quantity": 886,
+                    "season": "Winter",
+                    "required_quantity": 103200,
+                    "deficit": 102314,
+                    "unit_price": 122.63
+                }
+            ],
+            "latitude": "30.4984",
+            "longitude": "2.7780",
+            "routes": [
+                [
+                    "Ouargla",
+                    275.403680129428
+                ],
+                [
+                    "In Salah",
+                    380.729054038971
+                ],
+                [
+                    "Timimoun",
+                    295.1612591782537
+                ],
+                [
+                    "El Bayadh",
+                    390.9352406217438
+                ],
+                [
+                    "Ghardaia",
+                    224.7852458263196
+                ]
+            ]
+        }
+    ]
+}
