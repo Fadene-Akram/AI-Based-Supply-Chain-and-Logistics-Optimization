@@ -97,7 +97,7 @@ Post-implementation analysis shows a notable reduction in product deficits, indi
 
 ### Comparison of Search Strategies
 - **A* Search and BFS**: Perform best in finding shortest paths, minimizing travel distances and transportation costs.
-- **Reverse DFS and Simulated Annealing**: Exhibit suboptimal performance, leading to longer travel distances and higher costs.
+- **DFS and Simulated Annealing**: Exhibit suboptimal performance, leading to longer travel distances and higher costs.
 
 ### Detailed Comparative Analysis
 - **Distance and Time to Transport**: A* and BFS yield shorter distances and reduced times.
