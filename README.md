@@ -86,9 +86,9 @@ To demonstrate how these methods can be utilized in our project to find optimal 
 7. **Execute Transportation**: The transportation process is executed using the chosen optimization technique, which can be A* search, DFS, BFS, or Simulated Annealing, depending on the project's needs and objectives.
 8. **Output Results and Visualization**: Output all the previous results and visualize the transportation path.
 
-![Output1](Terminal Output.png)
+![Output1](Terminal_Output.png)
 
-![Output2](Map Output.png)
+![Output2](Map_Output.png)
 
 ## Comparative Analyses
 
